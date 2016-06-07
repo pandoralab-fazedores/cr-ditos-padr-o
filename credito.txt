@@ -1,15 +1,22 @@
 /*************************************************** 
   DESCRIÇÃO:
+  breve descrição
   
   POR:
   PANDORA LAB
   www.pandoralab.com.br
   
   COLABORADORES:
+  nome e email
   
   HARDWARE:
+  nome e link
+  
+  TOOLCHAIN:
+  citar versões
   
   BIBLIOTECAS UTILIZADAS:
+  citar versões e link quando aplicável
   
   LICENÇA:
   Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
